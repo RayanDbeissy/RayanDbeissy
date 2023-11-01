@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Rayan Dbeissy</h1>
-<h3 align="center">My name is Rayan Dbeissy, and I am a game and web developer with over 5 years of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects, including Mingo AR Classroom, an educational app that gamifies the learning experience for teens</h3>
+<h3 align="center">My name is Rayan Dbeissy, and I am a game and web developer with over 2 years of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects, including BvB, an educational app that gamifies the learning experience for teens, and an ecotourism project</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanDbeissy&label=Profile%20views&color=0e75b6&style=flat" alt="danielawde9" /> </p>
 
-- 🔭 I’m currently working on [Mingo AR Classroom is an augmented reality (AR) educational app aimed at teens to gamify the learning experience. The app combines the power of AR with engaging gameplay to create an immersive and interactive learning environment.](https://github.com/danielawde9/MingoARClassroom)
+- 🔭 I’m currently working on an educational application that teached people trading currencies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
